@@ -1,0 +1,12 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is B6DA-FC95
+
+ Directory of C:\demo2\davesdemo
+
+11/06/2015  16:13    <DIR>          .
+11/06/2015  16:13    <DIR>          ..
+11/06/2015  16:12             3,102 .gitignore
+11/06/2015  16:13                 0 f1.txt
+11/06/2015  16:12             9,118 LICENSE
+               3 File(s)         12,220 bytes
+               2 Dir(s)  62,012,981,248 bytes free
